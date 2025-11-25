@@ -1,28 +1,100 @@
-<h1 align="center">Hi 👋, I'm Gobinath.S</h1>
-<h3 align="center">A Passionate Mobile Application and Website developer</h3>
+<!-- Banner (Optional but highly recommended) -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-3b86a0f3-33ab-4e7b-a8dc-9c985b3a1d8f.gif" alt="Banner" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gobi6696" alt="gobi6696" /></a> </p>
+<!-- Header with Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Gobinath+S;Passionate+Mobile+%26+Full-Stack+Developer;Flutter+%E2%9D%A4%EF%B8%8F+React+%E2%9A%A1+PHP+%F0%9F%94%A5;Building+Apps+That+People+Love+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [TripHire Project](https://book.buzhire.com/)
+  <h2>🚀 Turning Ideas into Beautiful, Fast & Scalable Apps</h2>
 
-- 🌱 I’m currently learning **PHP Codeignitor,React**
+  <!-- Badges -->
+  <div>
+    <img src="https://img.shields.io/badge/Status-Actively%20Hiring%20Projects-00D4AA?style=for-the-badge" alt="Status"/>
+    <a href="https://linkedin.com/in/gobinathshanmugam" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:gobinath6696@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
 
-- 👯 I’m currently working on [Ezytalk](https://app.ezytalk.in/)
+  <br/>
 
-- 🤝 I’m currently working on **Lovefit MobileApp**
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=gobi6696&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=10" alt="GitHub Trophies"/>
 
-- 💬 Ask me about **Flutter,Firebase,Dart,HTML,CSS,JS,PHP**
+</div>
 
-- 📫 How to reach me **gobinath6696@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gobinathshanmugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gobinathshanmugam" height="30" width="40" /></a>
-</p>
+### 🔥 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+| Project       | Description                                   | Tech Stack                         | Live Link                                      |
+|---------------|-----------------------------------------------|------------------------------------|------------------------------------------------|
+| 🚗 **TripHire** | Complete Ride Booking Platform              | Flutter • Firebase • Node.js       | [book.buzhire.com](https://book.buzhire.com)   |
+| 💬 **Ezytalk**  | Real-time Chat & Video Calling App           | Flutter • WebRTC • Firebase        | [app.ezytalk.in](https://app.ezytalk.in)       |
+| 💪 **Lovefit**  | Fitness Tracker with AI Workout Suggestions  | Flutter • Firebase • HealthKit     | Coming Soon                                    |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobi6696&show_icons=true&locale=en&layout=compact" alt="gobi6696" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gobi6696&show_icons=true&theme=dark&locale=en" alt="gobi6696" /></p>
+### 🌱 Currently Mastering
+<div align="center">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gobi6696&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%"/>
+  
+  <code>
+    React.js           ██████████████████▒░░░ 85%<br/>
+    CodeIgniter 4      █████████████████████ 95%<br/>
+    Node.js + Express  ██████████████████░░░░ 82%<br/>
+    Firebase Expert    ██████████████████████ 98%<br/>
+    Clean Architecture ███████████████████░░░ 88%
+  </code>
+</div>
+
+<br/><br/><br/>
+
+### 🛠️ Technologies & Tools I Work With
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,php,codeigniter,kotlin,androidstudio,nodejs,express,mysql,git,github,figma,postman,vscode,selenium&perline=8&theme=dark" />
+
+</div>
+
+<br/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gobi6696&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=gobi6696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gobi6696&theme=tokyo-night&hide_border=true&point=00D9FF&bg_color=0D1117" alt="Contribution Graph" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=gobi6696&label=Profile+Views&color=00d4aa&style=for-the-badge" alt="Profile Views" />
+  
+  <br/><br/>
+
+  ### ☕ Fun Fact: I build production-ready apps faster than your coffee gets cold!
+
+  <br/><br/>
+
+  **Open for freelance • Full-time • Collaboration**  
+  Reach me anytime → **gobinath6696@gmail.com**
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/down.gif" width="80"/>
+
+</div>
